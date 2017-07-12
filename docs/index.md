@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-# Hi, I'm Kate
+# Hi, I'm Kate this is practice
 
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
