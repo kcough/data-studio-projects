@@ -4,6 +4,6 @@ title: Contact me
 
 ---
 
-* [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
-* [Instagram](http://instagram.com/blahblah)
+* [Twitter](http://twitter.com/kaitlin.cough)
+* [user@example.com](mailto:kc3053@columbia.edu)
+* [Instagram](http://instagram.com/kaitlin.cough)

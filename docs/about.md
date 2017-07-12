@@ -1,6 +1,6 @@
 ---
 
-title: About
+title: I'm about this
 permalink: /about
 
 ---
