@@ -4,6 +4,6 @@ title: Contact me
 
 ---
 
-* [Twitter](http://twitter.com/kaitlin.cough)
+* [Twitter](http://twitter.com/kaitlincough)
 * [user@example.com](mailto:kc3053@columbia.edu)
 * [Instagram](http://instagram.com/kaitlin.cough)
