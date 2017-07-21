@@ -42,5 +42,6 @@ li {
 a {
   text-decoration: none;
   padding: 3px 6px;
-  color: #62ae9d;
+  background: #62ae9d;
+  color: white;
 }
