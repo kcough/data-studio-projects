@@ -1,4 +1,4 @@
-notes for first project on Titanic survivors
+Notes for first project on Titanic survivors
 
 First, in thinking about the project, we need a level of analysis I don't have yet--the survival rate (maybe in percentage) of passengers.
 
@@ -27,3 +27,10 @@ Here's some interesting info on fare prices and how they were calculated for thi
 http://www.statisticalconsultants.co.nz/blog/titanic-fare-data.html
 
 Analysis done by someone else: http://www.anesi.com/titanic.htm
+
+
+FINALLY:
+Converted the PDF to PNG
+
+convert -density 150 -antialias "survival_modified.pdf" -resize 1024x -quality 100 "survival_modified.png"
+
