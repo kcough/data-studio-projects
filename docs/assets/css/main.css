@@ -1,10 +1,15 @@
+body {
+    background-color: #eeeeee;
+}
+
 .container {
   width: 750px;
   color: #333;
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
-  font-family: Georgia, sans-serif;
+  color: #eabe0a;
+  font-family: Cabin, sans-serif;
   position: relative;
 }
 
