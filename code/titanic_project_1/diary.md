@@ -1,5 +1,7 @@
 Notes for first project on Titanic survivors
 
+I started with several datasets about tuna fishing in various oceans around the world...all were interesting, but I didn't have a clear idea of what I wanted to do with them, and decided instead to give myself this week to think more about what a final product might be and to pick something a bit simpler to get used to what a project workflow feels like.
+
 First, in thinking about the project, we need a level of analysis I don't have yet--the survival rate (maybe in percentage) of passengers.
 
 This could be calculated by taking all of the people who paid $100 for a ticket and finding the percentage of them that survived. This is the likelihood of survival rate for that fare.
