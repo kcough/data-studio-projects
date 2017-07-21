@@ -17,6 +17,7 @@ body {
   top: 10px;
   right: 10px;
   text-align: right;
+  color: #eabe0a;
   width: 100%;
 }
 
@@ -40,7 +41,7 @@ li {
 
 a {
   text-decoration: none;
-  background: #bdffc5;
+  background: #eabe0a;
   padding: 3px 6px;
-  color: #000;
+  color: #454545;
 }
