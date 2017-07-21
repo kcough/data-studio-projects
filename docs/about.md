@@ -5,7 +5,7 @@ permalink: /about
 
 ---
 
-This is a longer about me page
+I like bike reading and chickpeas and saying the word "chickpea" in French.
 
 About me
 

@@ -1,10 +1,11 @@
 ---
 
-title: A Very Cool Project
+title: Surviving the Titanic
 layout: project
 
 ---
 
-# This is my project about something
+# Were you more likely to survive the Titanic disaster if you
+# paid a higher fare?
 
-![](cats-master-header.png)
+![](survival_modified_master_header.png)
