@@ -1,0 +1,19 @@
+editorialize with your headline-don't just reiterate it
+use requests and beautiful soup if you need to scrape a lot of stuff
+write out your minimum and maximum...what is the minimum you can deliver? the maximum?
+
+maybe cluster by year? relate this to the bomb curve? can the bomb curve be measured in various places?
+
+cheap tricks: central tendencies: mean, median and mode
+
+best and worst
+
+distribution-anytime you have categories you can always break them down in those categories. 
+
+new mottos for projects: if you're holding a bird it's great, but if you just see two birds it's not great because you can't graph them
+
+always be shipping: you just have to make choices
+
+the perfect is the enemy of the good
+
+no maps or interactives. you're here for your readers not just for you
