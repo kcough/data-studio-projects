@@ -5,6 +5,6 @@ layout: project
 
 ---
 
-# Were you more likely to survive the Titanic disaster if you paid a higher fare?
+# Titanic, by the numbers
 
-![](survival_modified_master_header.png)
+![](titanic_final_draft.png)
