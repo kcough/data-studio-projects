@@ -2,6 +2,7 @@ Percentage of survivors from each passenger class
 1    15.278839
 3    13.827349
 2     9.090909
+NOT A GOOD CORRELATION because there were more third class than first
 
 49 pounds = average fare paid by survivors
 
