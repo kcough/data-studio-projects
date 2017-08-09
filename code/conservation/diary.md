@@ -5,25 +5,18 @@ FINAL GOAL:
 A map of Maine land under conservation easement, color coded by who manages the parcel. When you roll over you would see the acreage and the name of the Trust.
 Ultimately could be compared to a national map of conservation lands to see which states conserve the most land. 
 
-THIS!!!!! http://www.mltn.org/trust_guide/
-
-all of this is in
-div class=trustINfo
-
-h2 tag is the name of the trust
-div id=contactInfo has the contact info
-within div id=contactInfo you have ul class=plain
-within ul class=plain[0] you have li[0] with an a tag and class=lightback that has the website
-li[1] has the email
-
-within ul class=plain[1]
-you have the maine contact info
-
-div class=quickfacts has the quick facts
 
 
+USEFUL WEBSITES:
 
+LIST OF MAINE LAND TRUSTS FROM MCHT:
+http://www.mltn.org/trust_guide/
+http://www.mltn.org/view_trusts-alphabetical.php
 
+Land conserved nationwide, all managers:
+https://gapanalysis.usgs.gov/padus/files/2017/02/padus_usgs_template_manager_03032017LowRes.jpg
+
+National Conservation Easement Database: (reports on Maine and nationwide): http://nced.conservationregistry.org/reports/easements?report_state=Maine&report_type=All
 
 Land conservation from Colby: http://web.colby.edu/stateofmaine2012/state-of-large-landscape-conservation-in-maine/
 
@@ -35,7 +28,7 @@ Shapefiles (ecoregions) from the EPA: https://www.epa.gov/eco-research/ecoregion
 
 What percentage of Maine's land is under conservation and who manages each piece?
 
-Thoughts:
+THOUGHTS RANDOM & OTHERWISE:
 
 Create a visualization that shows:
 
@@ -51,17 +44,13 @@ http://www.maine.gov/dacf/parks/publications_maps/conservation_lands_maine.html
 
 something static might be more approachable for public use. Plus everything about this is terrible. Zooming is the worst.
 
-LIST OF MAINE LAND TRUSTS FROM MCHT:
-http://www.mltn.org/view_trusts-alphabetical.php
-
-MAINE LAND TRUSTS:
-Survey and land holdings:
-http://www.mltn.org/perch/resources/160331surveyanalysisv4.2.pdf
-
-1% of Maine's land coast is under conservation-the rest is privately held. 
 
 
-CONNECT LAND TRUST INFO:
+THOUGHTS ON THE STORY ITSELF:
 
-Scrape http://www.mltn.org/view_trusts-alphabetical.php for name of each trust
-info on trust
+What does land conservation mean? 
+What are the different types/uses of conserved land?
+
+Monday, August 7 2017
+
+-Contacted MEGIS (directed email to OIT/Land Conservation Department) http://www.maine.gov/megis/about/
