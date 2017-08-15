@@ -11,4 +11,3 @@ layout: project
 ![](total_land_conservation_750@2x.png)
 ![](maine_pie_750@2x.png)
 ![](maine_land_conservation_750@2x.png)
-![](maine_pie_holdings@2x.png)
