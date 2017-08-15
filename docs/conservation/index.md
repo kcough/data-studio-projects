@@ -7,8 +7,8 @@ layout: project
 
 # Maine is a leader in conserving land for future generations--but most of it is private
 
-![](small_multiples_conseration@2x.png)
-![](all_states_holding@2x.png)
+![](small_multiples_750@2x.png)
 ![](total_land_conservation_750@2x.png)
-![](maine_holder_type@2x.png)
+![](maine_pie_750@2x.png)
+![](maine_land_conservation_750@2x.png)
 ![](maine_pie_holdings@2x.png)
