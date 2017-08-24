@@ -20,12 +20,13 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 
 land managed by private organizations|land managed by the state
 :-------------------------:|:-------------------------:
-![](private_highlighted_dark.png)|![](state_highlighted_dark.png)
+![](private_highlighted_darker.png)|![](state_highlighted_darker.png)
 
 land managed by the federal government|land managed by municipalities
 :-------------------------:|:-------------------------:
-![](federal_highlighted_dark.png)|![](municipal_highlighted_dark.png)|
+![](federal_highlighted_darker.png)|![](municipal_highlighted_darker.png)|
 
 
 **At 9.14 percent, Maine lags slightly behind nationwide** in terms of the percentage of the state's area that is marked for conservation, but the numbers area close: percentage-wise, Arizona leads the nationwide, at 9.85 percentage of the state's area under conservation. 
+
 ![](percentage_total_area_blue.png)
