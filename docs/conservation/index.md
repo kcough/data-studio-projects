@@ -8,7 +8,7 @@ layout: project
 # Maine is a leader in conserving land for future generations. But most of Maine's conserved land is privately managed.
 
 
-![](IMG_9721.JPG)
+![](IMG_9721_750.png)
 *Pond Island, famous for its fern fields and beloved by boaters, is owned and maintained by Maine Coast Heritage Trust. The 32-acre island was purchased by Philadelphia Conservation Inc. (now called the National Land Trust) after a citizen fundraising effort.* Photo: Kate Cough, 2017
 
 **Land conservation plays a vital role in Maine's economy.** Locals and tourists alike enjoy access to over two and a half million acres of forests, lakes and rivers where development has been limited through conservation easements and other protections. Only Montana has more land under conservation by acreage.
