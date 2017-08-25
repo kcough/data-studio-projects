@@ -7,10 +7,10 @@ layout: project
 
 # Maine is a leader in conserving land for future generations. But most of Maine's conserved land is privately managed.
 
-| Pond Island | Mount Katahdin | Acadia National Park |
-|:------:|:------:|:------:|
-| ![](pond_island.png)|![](katahdin.png)|![](acadia.png)|
-|Pond Island, managed by the non-profit Maine Coast Heritage Trust|Mount Katahdin, managed by the state as part of Baxter State Park|Acadia National Park, managed by the federal government as part of the National Parks System|
+| Pond Island | Mount Katahdin |
+|:------:|:------:|
+| ![](pond_island.png)|![](katahdin.png)|
+|Pond Island, managed by the non-profit Maine Coast Heritage Trust|Mount Katahdin, managed by the state as part of Baxter State Park|
 
 
 **Land conservation plays a vital role in Maine's economy.** Locals and tourists alike enjoy access to over two and a half million acres of forests, lakes and rivers where development has been limited through conservation easements and other protections. Only Montana has more land under conservation by acreage.
@@ -32,7 +32,7 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 |Land managed by the state|Land managed by private organizations|
 |:-------------------------|:-------------------------|
 |![](state_highlighted_e0d9c4_375.png)|![](private_highlighted_e0d9c4_375.png)|
-|**The state manages 34 percent** of conservation lands in Maine-places like Scarborough Marsh and Baxter State Park. Many of these lands are managed by the Maine Department of Inland Fisheries and Wildlife. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program.|**Privately held lands** make up nearly 60 percent of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.|
+|**The state manages 34 percent** of conservation lands in Maine, including Mount Katahdin and Baxter State Park. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program.|**Privately held lands account for 60 percent** of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.|
 
 
 
@@ -40,7 +40,7 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 |Land managed by the federal government|Land managed by municipalities|
 |:-------------------------|:-------------------------|
 |![](federal_highlighted_e0d9c4_375.png)|![](municipal_highlighted_e0d9c4_375.png)|
-|**Federally managed lands make up just 5.5 percent** of the conserved lands in the state. Acadia National Park and the White Mountains make of the bulk of federal holdings in the state and draw some of the largest crowds. In addition, the recently designated Katahdin Woods and Waters National Monument, an 87,000 acre parcel donated to the National Park Service by Roxanne Quimby in 2016, is federally managed.|**A mere 1 percent of conserved land is managed by municipalities**-this includes places like the Isle au Haut town landing and Kenduskeag stream park. Boats ramps, town landings and beaches are often locally managed.|
+|**Federally managed lands make up just five percent** of the conserved lands in the state. Acadia National Park and the White Mountains make of the bulk of federal holdings in the state and draw some of the largest crowds.|**One percent of conserved land is managed by municipalities**-this includes places like the Isle au Haut town landing, Scarborough beach, and Kenduskeag stream park. Boats ramps, town landings and beaches are often locally managed.|
 
 **On Thursday, Secretary of the Interior Ryan Zinke announced that he would not rescind** the designation of the Katahdin Woods and Waters National Monument, Maine's newest and youngest national monument. The 87,500 acre parcel, donated to the National Park Service by Roxanne Quimby, is managed by the federal government.
 
