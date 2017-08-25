@@ -39,8 +39,6 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 |:-------------------------|:-------------------------|
 |||
 |||
-|||
-|||
 
 |Land managed by the federal government|Land managed by municipalities|
 |:-------------------------|:-------------------------|
