@@ -7,9 +7,11 @@ layout: project
 
 # Maine is a leader in conserving land for future generations. But most of Maine's conserved land is privately managed.
 
+| Pond Island | Mount Katahdin | Acadia National Park |
+|     :---:      |     :---:      |     :---:      |
+| ![](pond_island.png)|![](katahdin.png)|![](acadia.png)|
+|Pond Island, managed by the non-profit Maine Coast Heritage Trust|Mount Katahdin, managed by the state as part of Baxter State Park|Acadia National Park, managed by the federal government as part of the National Parks System|
 
-![](IMG_9721_750.png)
-*Pond Island, famous for its fern fields and beloved by boaters, is owned and maintained by Maine Coast Heritage Trust. The 32-acre island was purchased by Philadelphia Conservation Inc. (now called the National Land Trust) after a citizen fundraising effort.* Photo: Kate Cough, 2017
 
 **Land conservation plays a vital role in Maine's economy.** Locals and tourists alike enjoy access to over two and a half million acres of forests, lakes and rivers where development has been limited through conservation easements and other protections. Only Montana has more land under conservation by acreage.
 
@@ -27,24 +29,17 @@ layout: project
 **The Maine Land Trust Network,** a program of Maine Coast Heritage Trust (Maine's largest land non-profit land trust), lists 67 land trusts in the state, managing 475,554 acres of land. The majority (63 percent) is managed by The Nature Conservancy of Maine, a branch of the national organization The Nature Conservancy. Maine Coast Heritage Trust manages the greatest number of parcels.
 As for the state, three organizations (The Maine Bureau of Parks and Lands, the Maine Dept. of Inland Fisheries & Wildlife, and the Maine Minor Civil Division) manage the majority of the properties. Maine Coast Heritage Trust manages the largest number of individual holdings.
 
-Land managed by the state|Land managed by private organizations
-:-------------------------:|:-------------------------:
-![](state_highlighted_e0d9c4.png)|![](private_highlighted_e0d9c4.png)
-**The state manages 34 percent** of conservation lands in Maine-places like Scarborough Marsh and Baxter State Park. Many of these lands are managed by the Maine Department of Inland Fisheries and Wildlife. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program. | **Privately held lands** make up nearly 60 percent of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.
+|Land managed by the state|Land managed by private organizations|
+|:-------------------------:|:-------------------------:|
+|![](state_highlighted_e0d9c4.png)|![](private_highlighted_e0d9c4.png)|
+|**The state manages 34 percent** of conservation lands in Maine-places like Scarborough Marsh and Baxter State Park. Many of these lands are managed by the Maine Department of Inland Fisheries and Wildlife. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program. | **Privately held lands** make up nearly 60 percent of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.|
 
-<!--![](private_highlighted_e0d9c4.png)
--->
-<!--![](state_highlighted_e0d9c4.png)
--->
-Land managed by the federal government|Land managed by municipalities
-:-------------------------:|:-------------------------:
-![](federal_highlighted_e0d9c4.png)|![](municipal_highlighted_e0d9c4.png)
-**Federally managed lands make up just 5.5 percent** of the conserved lands in the state. Acadia National Park and the White Mountains make of the bulk of federal holdings in the state and draw some of the largest crowds. In addition, the recently designated Katahdin Woods and Waters National Monument, an 87,000 acre parcel donated to the National Park Service by Roxanne Quimby in 2016, is federally managed. |**A mere 1 percent of conserved land is managed by municipalities**-this includes places like the Isle au Haut town landing and Kenduskeag stream park. Boats ramps, town landings and beaches are often locally managed.
 
-<!--![](federal_highlighted_e0d9c4.png)
--->
-<!--![](municipal_highlighted_e0d9c4.png)
--->
+|Land managed by the federal government|Land managed by municipalities|
+|:-------------------------:|:-------------------------:|
+|![](federal_highlighted_e0d9c4.png)|![](municipal_highlighted_e0d9c4.png)|
+|**Federally managed lands make up just 5.5 percent** of the conserved lands in the state. Acadia National Park and the White Mountains make of the bulk of federal holdings in the state and draw some of the largest crowds. In addition, the recently designated Katahdin Woods and Waters National Monument, an 87,000 acre parcel donated to the National Park Service by Roxanne Quimby in 2016, is federally managed. |**A mere 1 percent of conserved land is managed by municipalities**-this includes places like the Isle au Haut town landing and Kenduskeag stream park. Boats ramps, town landings and beaches are often locally managed.|
+
 **On Thursday, Secretary of the Interior Ryan Zinke announced that he would not rescind** the designation of the Katahdin Woods and Waters National Monument, Maine's newest and youngest national monument. The 87,500 acre parcel, donated to the National Park Service by Roxanne Quimby, is managed by the federal government.
 
 The monument is the smallest of the 27 under review by the Trump Administration. The Washington Post has reported that Zinke recommends reducing the size of several, including monuments in Utah and Oregon.
