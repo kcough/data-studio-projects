@@ -35,7 +35,12 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 |**The state manages 34 percent** of conservation lands in Maine, including Mount Katahdin and Baxter State Park. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program.|**Privately held lands account for 60 percent** of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.|
 
 
-
+|||
+|:-------------------------|:-------------------------|
+|||
+|||
+|||
+|||
 
 |Land managed by the federal government|Land managed by municipalities|
 |:-------------------------|:-------------------------|
