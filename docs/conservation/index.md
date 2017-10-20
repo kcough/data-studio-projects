@@ -7,13 +7,10 @@ layout: project
 
 # Maine is a leader in conserving land for future generations. But most of Maine's conserved land is privately managed.
 
-![](Katahdin-33.JPG)
+![](pond_island.png)
+
 *Pond Island, managed by the non-profit Maine Coast Heritage Trust, is a 32-acre parcel in Penobscot Bay beloved by boaters for its wild fern fields, shown above*
 
-<!--| Pond Island | Mount Katahdin |
-|:------:|:------:|
-| ![](pond_island.png)|![](katahdin.png)|
-|Pond Island, managed by the non-profit Maine Coast Heritage Trust|Mount Katahdin, managed by the state as part of Baxter State Park|-->
 
 
 **Land conservation plays a vital role in Maine's economy.** Locals and tourists alike enjoy access to over two and a half million acres of forests, lakes and rivers where development has been limited through conservation easements and other protections. Only Montana has more land under conservation by acreage.
