@@ -7,7 +7,7 @@ layout: project
 
 # Maine is a leader in conserving land for future generations. But most of Maine's conserved land is privately managed.
 
-![](pond_island_750.png)
+![](Katahdin-33.JPG)
 *Pond Island, managed by the non-profit Maine Coast Heritage Trust, is a 32-acre parcel in Penobscot Bay beloved by boaters for its wild fern fields, shown above*
 
 <!--| Pond Island | Mount Katahdin |
@@ -33,7 +33,7 @@ layout: project
 As for the state, three organizations (The Maine Bureau of Parks and Lands, the Maine Dept. of Inland Fisheries & Wildlife, and the Maine Minor Civil Division) manage the majority of the properties. Maine Coast Heritage Trust manages the largest number of individual holdings.
 
 |Land managed by the state|Land managed by private organizations|
-|:-------------------------|:-------------------------|
+|:-------------------------:|:-------------------------:|
 |![](state_highlighted_e0d9c4_375.png)|![](private_highlighted_e0d9c4_375.png)|
 |**The state manages 34 percent** of conservation lands in Maine, including Mount Katahdin and Baxter State Park. Voters have approved millions of dollars in bonds for land conservation over the past decade, much of which is managed by the Land for Maine's Future program.|**Privately held lands account for 60 percent** of the conserved lands in Maine. Some, like the Goslings, are free and open to the public. Many are conservation easemenets on private land whose owners may or may not open the land for public use. Some are open to the public for a fee.|
 
@@ -44,7 +44,7 @@ As for the state, three organizations (The Maine Bureau of Parks and Lands, the 
 |||
 
 |Land managed by the federal government|Land managed by municipalities|
-|:-------------------------|:-------------------------|
+|:-------------------------:|:-------------------------:|
 |![](federal_highlighted_e0d9c4_375.png)|![](municipal_highlighted_e0d9c4_375.png)|
 |**Federally managed lands make up just five percent** of the conserved lands in the state. Acadia National Park and the White Mountains make of the bulk of federal holdings in the state and draw some of the largest crowds.|**One percent of conserved land is managed by municipalities**-this includes places like the Isle au Haut town landing, Scarborough beach, and Kenduskeag stream park. Boats ramps, town landings and beaches are often locally managed.|
 
