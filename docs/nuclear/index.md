@@ -4,7 +4,7 @@ title: Most popular name for nuclear tests? It's a star
 
 ---
 
-# 
+# Most popular name for nuclear tests? It's a star
 
 Since 1945, the United States has conducted over 1,000 nuclear tests with a combined explosive yield of 100,000 kilotons (1 kiloton is the equivalent of 1,000 tons of TNT). Fifteen of these tests have been named after the star Vega, the second brightest star in the northern hemisphere and one that is twice as massive as the sun, and another five have been named after the constellation, Lyra, of which Vega is a part.
 
